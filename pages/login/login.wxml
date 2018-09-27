@@ -1,0 +1,8 @@
+<view class='login-autho'>
+  <view><image src='/images/logo2.png' mode='widthFix'></image></view>
+  <view class='wx-app-desc'>汽车大咖，懂车的人都在这儿！</view>
+  <button open-type='getUserInfo'  bindgetuserinfo='getUserInfo'>立即登录</button>  
+</view>
+
+
+

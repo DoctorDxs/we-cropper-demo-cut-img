@@ -1,0 +1,2 @@
+<image src='{{src}}'></image>
+<view bindtap='chooseIMG' class='choose-img'>选择图片</view>
