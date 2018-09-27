@@ -8,7 +8,7 @@ Page({
    cuttype: null
   },
   onShow() {
-    if (this.cuttype) {
+    if (this.data.cuttype) {
       console.log(this.data.src)
     }
   },
